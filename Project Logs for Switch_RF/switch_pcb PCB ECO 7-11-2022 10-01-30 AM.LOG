@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=Net_12 Pin=VCTL-1
+Removed Pin From Net: NetName=GND Pin=VCTL-2
+Removed Pin From Net: NetName=Net_7 Pin=VDD-1
+Removed Pin From Net: NetName=GND Pin=VDD-2
+Change Component Footprint: Designator=VCTL Old Footprint=HDR1X2 New Footprint=SAMTEC_MTMM-101-10-G-D-135
+Change Component Footprint: Designator=VDD Old Footprint=HDR1X2 New Footprint=SAMTEC_MTMM-101-10-G-D-135
+Change component parameters: Designator = "VCTL"; Footprint = "SAMTEC_MTMM-101-10-G-D-135"; UniqueID = "\ZGCIIEUZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-10-G-D-135/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MTMM-101-10-G-D-135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MTMM-101-10-G-D-135/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-10-G-D-135/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "VDD"; Footprint = "SAMTEC_MTMM-101-10-G-D-135"; UniqueID = "\GFUMUXTB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTMM-101-10-G-D-135/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MTMM-101-10-G-D-135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MTMM-101-10-G-D-135/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTMM-101-10-G-D-135/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net_12 Pin=VCTL-01
+Added Pin To Net: NetName=GND Pin=VCTL-02
+Added Pin To Net: NetName=Net_7 Pin=VDD-01
+Added Pin To Net: NetName=GND Pin=VDD-02
+Added Member To Class: ClassName=switch_esquematico Member=Component  SKY13421-486LF
+Added Member To Class: ClassName=switch_esquematico Member=Component VCTL 
+Added Member To Class: ClassName=switch_esquematico Member=Component VDD 

@@ -1,0 +1,13 @@
+Change Component Description : Designator=J1 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J2 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J3 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J4 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J5 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J6 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Added Member To Class: ClassName=switch_esquematico Member=Component C2 
+Added Member To Class: ClassName=switch_esquematico Member=Component C5 
+Added Member To Class: ClassName=switch_esquematico Member=Component C6 
+Added Member To Class: ClassName=switch_esquematico Member=Component C7 
+Added Member To Class: ClassName=switch_esquematico Member=Component  SKY13421-486LF
+Added Member To Class: ClassName=switch_esquematico Member=Component VDD 
+Added Room: Name=switch_esquematico

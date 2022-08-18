@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Switch_RF.PrjPCB]
+   Generated File[switch_pcb.GTO]
+   Generated File[switch_pcb.GTP]
+   Generated File[switch_pcb.GTS]
+   Generated File[switch_pcb.GTL]
+   Generated File[switch_pcb.GBL]
+   Generated File[switch_pcb.GBS]
+   Generated File[switch_pcb.GBP]
+   Generated File[switch_pcb.GBO]
+   Generated File[switch_pcb.GM1]
+   Generated File[switch_pcb.GM13]
+   Generated File[switch_pcb.GM15]
+   Generated File[switch_pcb.GKO]
+   Generated File[switch_pcb.GML]
+   Generated File[switch_pcb.1]
+   Generated File[switch_pcb.GD1]
+   Generated File[switch_pcb.GG1]
+   Generated File[switch_pcb.RUL]
+   Generated File[switch_pcb.EXTREP]
+   Generated File[switch_pcb.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 11:24:16 AM On 8/9/2022

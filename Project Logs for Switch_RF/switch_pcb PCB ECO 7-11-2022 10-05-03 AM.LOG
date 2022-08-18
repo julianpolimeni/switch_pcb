@@ -1,0 +1,10 @@
+Change Component Description : Designator=J1 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J2 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J3 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J4 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J5 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Change Component Description : Designator=J6 Old Description=SMA Jack New Description=SMA Jack | End Launch | Round Contact
+Added Pin To Net: NetName=Net_12 Pin=VCTL-01
+Added Pin To Net: NetName=GND Pin=VCTL-02
+Added Pin To Net: NetName=Net_7 Pin=VDD-01
+Added Pin To Net: NetName=GND Pin=VDD-02
